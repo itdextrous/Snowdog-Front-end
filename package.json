@@ -41,6 +41,6 @@
         "create-symlink": "^1.0.0",
         "file-system": "^2.2.2",
         "gulp-routes": "^1.0.0",
-        "node-sass": "^4.13.1"
+        "node-sass": "^7.0.0"
     }
 }
